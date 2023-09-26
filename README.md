@@ -1,2 +1,194 @@
-# test
-python,c(arduino),html
+///인터넷 주소:C:\AIDrone\aomputer.py\110\periodic_real.html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Periodic Table</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+        
+        th, td {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Periodic Table of Elements</h1>
+    <table>
+        <tr>
+
+            <th>1
+            <br>Name
+            <br>Atomic-Mass
+            </th>
+
+            <th>2</th>
+            <th>3</th>
+            <th>4</th>
+            <th>5</th>
+            <th>6</th>
+            <th>7</th>
+            <th>8</th>
+            <th>9</th>
+            <th>10</th>
+            <th>11</th>
+            <th>12</th>
+            <th>13</th>
+            <th>14</th>
+            <th>15</th>
+            <th>16</th>
+            <th>17</th>
+            <th>18</th>
+        </tr>
+        <tr>
+            <td>H
+            <br>Hydrogen
+            <br>1.00
+            </th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <th></th>
+            <td>He
+                <br>Helium
+                <br>4.00
+            </td>
+        </tr>
+        </tr>
+        <tr>
+
+
+        </tr>
+        <tr>
+
+            <td>Li
+            <br>Lithium
+            <br>6.94
+            </td>
+
+            <td>Be
+            <br>Beryllium
+            <br>9.01
+            </td>
+
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+
+            <td>B
+            <br>Boron
+            <br>10.81</td>
+            </td>
+
+            <td>C 
+            <br>Carbon
+            <br>12.016
+
+            <td>N
+            <br>Nitrogen
+            <br>14.00
+            </td>
+            
+            <td>O
+            <br>Oxygen
+            <br>15.99
+            </td>
+
+            <td>F
+            <br>Fluorine
+            <br>18.99
+
+            <td>Ne
+            <br>Neon
+            <br>20.17</td>
+        <tr>
+            <td>Na
+            <br>Sodium
+            <br>22.98
+            </td>
+
+            <td>Mg
+            <br>Magnesium
+            <br>24.30
+            </td>
+
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+
+            
+            <td>Al
+            <br>Aluminium
+            <br>26.98
+            </td>
+            
+            <td>Si
+            <br>Silicon
+            <br>28.08
+            </td>
+
+            <td>P
+            <br>Phosphorus
+            <br>30.97
+            </td>
+
+            <td>S
+            <br>Sulfur
+            <br>32.06
+            </td>
+        
+            <td>Cl
+            <br>Chlorine
+            <br>35.43
+            </td>
+
+            <td>Ar
+            <br>Argon
+            <br>39.94
+            </td>
+
+        </tr>
+            <td>K
+            <br>Potassium
+            <br>39.09
+            </td>
+
+            <td>Ca
+            <br>Calcium
+            <br>40.08
+            </td>
+        <tr>
+
+    </table>
+</body>
+</html>
